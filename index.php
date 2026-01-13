@@ -497,9 +497,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                                  From first-time customers to long-term partners, people love how easy it is to work with us and how beautifully their moments are captured.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -513,9 +511,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                                  Every project brings a new story, and our clients’ feedback inspires us to keep creating memories that truly matter.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -529,9 +525,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                                  Discover how our photography has helped people preserve their most meaningful moments with style and perfection.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -545,9 +539,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                               Real feedback from people who trusted us to capture their special memories.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -561,9 +553,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                                   Because great moments deserve great feedback.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -577,9 +567,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                                    From first-time customers to long-term partners, people love how easy it is to work with us and how beautifully their moments are captured.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -593,9 +581,7 @@
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
-                                    Whether you’re about to create a website for the first time, or you’re looking 
-                                    for a theme that provides advanced capabilities, we have got them in 
-                                    Blacksilver theme.
+                                   Every project brings a new story, and our clients’ feedback inspires us to keep creating memories that truly matter.
                                  </p>
                                  <div class="author_name d-flex align-items-center justify-content-center">
                                     <div class="thumb">
@@ -862,15 +848,7 @@
                <div class="row align-items-center">
                   <div class="col-xl-7 col-md-8">
                      <p class="copy_right">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright ©
-                        <script>
-                           document.write(new Date().getFullYear());
-                        </script>
-                        2026 All rights reserved | This template is made with
-                        <i class="fa fa-heart-o" aria-hidden="true"></i> by
-                        <a href="https://colorlib.com/" target="_blank">Colorlib</a>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                       2026 All rights reserved 
                      </p>
                   </div>
                   <div class="col-xl-5 col-md-4">
