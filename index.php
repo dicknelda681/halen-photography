@@ -5,7 +5,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta http-equiv="x-ua-compatible" content="ie=edge" />
-      <title>sam</title>
+      <title>Hi, This is sam, a professional Photographer </title>
       <meta name="description" content="" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <!-- CSS here -->
@@ -513,7 +513,7 @@
                                  </div>
                               </div>
                            </div>
-                           <div class="owl-item active center" style="width: 920px;">
+                           <div class="owl-item active " style="width: 920px;">
                               <div class="single_testmonial text-center">
                                  <h3>Our Customers Say</h3>
                                  <p>
