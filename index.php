@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Hi, This is sam, a professional Photographer</title>
+    <title>Hi, This is sam, a professional Photographer </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-7">
                             <div class="main-menu  d-none d-lg-block">
-                                 <nav>
+                              <nav>
                               <ul id="navigation">
                                  <li><a class="active" href="">home</a></li>
                                  <li><a href="">About</a></li>
@@ -58,11 +58,40 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="social_links">
-                          
+                                <ul>
+                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
+                                    <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
+                                    <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
+                                </ul>
                             </div>
                         </div>
                         <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
+                            <div class="mobile_menu d-block d-lg-none">
+                               <div class="slicknav_menu">
+                              <a href="#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed" style=""><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a>
+                              <ul class="slicknav_nav slicknav_hidden" style="display: none;" aria-hidden="true" role="menu">
+                                 <li><a class="active" href="" role="menuitem" tabindex="-1">home</a></li>
+                                 <li><a href="" role="menuitem" tabindex="-1">About</a></li>
+                                 <li><a href="" role="menuitem" tabindex="-1">Albums</a></li>
+                                 <li class="slicknav_collapsed slicknav_parent">
+                                    <a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style=""><a href="#" tabindex="-1">blog <i class="ti-angle-down"></i></a>
+                                    <span class="slicknav_arrow">+</span></a>
+                                    <ul class="submenu slicknav_hidden" role="menu" style="display: none;" aria-hidden="true">
+                                       <li><a href="" role="menuitem" tabindex="-1">blog</a></li>
+                                       <li><a href="" role="menuitem" tabindex="-1">single-blog</a></li>
+                                    </ul>
+                                 </li>
+                                 <li class="slicknav_collapsed slicknav_parent">
+                                    <a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style=""><a href="#" tabindex="-1">pages <i class="ti-angle-down"></i></a>
+                                    <span class="slicknav_arrow">+</span></a>
+                                    <ul class="submenu slicknav_hidden" role="menu" style="display: none;" aria-hidden="true">
+                                       <li><a href="" role="menuitem" tabindex="-1">elements</a></li>
+                                    </ul>
+                                 </li>
+                                 <li><a href="" role="menuitem" tabindex="-1">Contact</a></li>
+                              </ul>
+                           </div>
+                            </div>
                         </div>
                     </div>
 
