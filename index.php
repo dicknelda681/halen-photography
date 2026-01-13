@@ -72,7 +72,7 @@ s0.parentNode.insertBefore(s1,s0);
                         </div>
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="social_links">
-                               <a href="#" class="boxed-btn3">+12 345 6789</a>
+                               <a href="telto:+1 (540) 615-2100" class="boxed-btn3">+1 (540) 615-2100</a>
                             </div>
                         </div>
                         <div class="col-12">
@@ -532,7 +532,7 @@ s0.parentNode.insertBefore(s1,s0);
                                         201/D, Green lane, Kings street, New York
                                 </li>
                                 <li>
-                                        +12 345 6789
+                                        +1 (540) 615-2100
                                 </li>
                                 <li>
                                         <a href="#">contact08@sam.com</a>
