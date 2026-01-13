@@ -58,7 +58,7 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="social_links">
-                               <a href="#" class="boxed-btn3">+91 123456789</a>
+                               <a href="#" class="boxed-btn3">+012 345 6789</a>
                             </div>
                         </div>
                         <div class="col-12">
@@ -116,7 +116,7 @@
                                        "
                                        >
                                       Hi, I’m sam — a visual storyteller behind the lens <br />
-                                       Turning real moments into timeless memories
+                                       
                                     </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
@@ -142,7 +142,7 @@
                                        "
                                        >
                                       Hi, I’m sam — a visual storyteller behind the lens <br />
-                                       Turning real moments into timeless memories
+                                       
                                     </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
@@ -168,7 +168,7 @@
                                        "
                                        >
                                       Hi, I’m sam — a visual storyteller behind the lens <br />
-                                       Turning real moments into timeless memories
+                                       
                                     </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
@@ -518,7 +518,7 @@
                                         201/D, Green lane, Kings street, New York
                                 </li>
                                 <li>
-                                        +10 787 367 2567
+                                        +012 345 6789
                                 </li>
                                 <li>
                                         <a href="#">contact08@halen.com</a>
