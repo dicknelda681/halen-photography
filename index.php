@@ -5,7 +5,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta http-equiv="x-ua-compatible" content="ie=edge" />
-      <title>Halen</title>
+      <title>sam</title>
       <meta name="description" content="" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <!-- CSS here -->
@@ -37,7 +37,7 @@
                   <div class="row align-items-center">
                      <div class="col-xl-3 col-lg-2">
                         <div class="logo">
-                           <a href="index.html">
+                           <a href="">
                            <img src="img/logo.png" alt="">
                            </a>
                         </div>
@@ -46,23 +46,15 @@
                         <div class="main-menu  d-none d-lg-block">
                            <nav>
                               <ul id="navigation">
-                                 <li><a class="active" href="index.html">home</a></li>
-                                 <li><a href="about.html">About</a></li>
-                                 <li><a href="album.html">Albums</a></li>
+                                 <li><a class="active" href="">home</a></li>
+                                 <li><a href="">About</a></li>
+                                 <li><a href="">Albums</a></li>
                                  <li>
-                                    <a href="#">blog <i class="ti-angle-down"></i></a>
-                                    <ul class="submenu">
-                                       <li><a href="blog.html">blog</a></li>
-                                       <li><a href="single-blog.html">single-blog</a></li>
-                                    </ul>
+                                    <a href="#">blog </a>
+                                    
                                  </li>
-                                 <li>
-                                    <a href="#">pages <i class="ti-angle-down"></i></a>
-                                    <ul class="submenu">
-                                       <li><a href="elements.html">elements</a></li>
-                                    </ul>
-                                 </li>
-                                 <li><a href="contact.html">Contact</a></li>
+
+                                 <li><a href="">Contact</a></li>
                               </ul>
                            </nav>
                         </div>
@@ -81,25 +73,25 @@
                            <div class="slicknav_menu">
                               <a href="#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed" style=""><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a>
                               <ul class="slicknav_nav slicknav_hidden" style="display: none;" aria-hidden="true" role="menu">
-                                 <li><a class="active" href="index.html" role="menuitem" tabindex="-1">home</a></li>
-                                 <li><a href="about.html" role="menuitem" tabindex="-1">About</a></li>
-                                 <li><a href="album.html" role="menuitem" tabindex="-1">Albums</a></li>
+                                 <li><a class="active" href="" role="menuitem" tabindex="-1">home</a></li>
+                                 <li><a href="" role="menuitem" tabindex="-1">About</a></li>
+                                 <li><a href="" role="menuitem" tabindex="-1">Albums</a></li>
                                  <li class="slicknav_collapsed slicknav_parent">
                                     <a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style=""><a href="#" tabindex="-1">blog <i class="ti-angle-down"></i></a>
                                     <span class="slicknav_arrow">+</span></a>
                                     <ul class="submenu slicknav_hidden" role="menu" style="display: none;" aria-hidden="true">
-                                       <li><a href="blog.html" role="menuitem" tabindex="-1">blog</a></li>
-                                       <li><a href="single-blog.html" role="menuitem" tabindex="-1">single-blog</a></li>
+                                       <li><a href="" role="menuitem" tabindex="-1">blog</a></li>
+                                       <li><a href="" role="menuitem" tabindex="-1">single-blog</a></li>
                                     </ul>
                                  </li>
                                  <li class="slicknav_collapsed slicknav_parent">
                                     <a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style=""><a href="#" tabindex="-1">pages <i class="ti-angle-down"></i></a>
                                     <span class="slicknav_arrow">+</span></a>
                                     <ul class="submenu slicknav_hidden" role="menu" style="display: none;" aria-hidden="true">
-                                       <li><a href="elements.html" role="menuitem" tabindex="-1">elements</a></li>
+                                       <li><a href="" role="menuitem" tabindex="-1">elements</a></li>
                                     </ul>
                                  </li>
-                                 <li><a href="contact.html" role="menuitem" tabindex="-1">Contact</a></li>
+                                 <li><a href="" role="menuitem" tabindex="-1">Contact</a></li>
                               </ul>
                            </div>
                         </div>
@@ -134,7 +126,7 @@
                                        animation-delay: 0.1s;
                                        "
                                        >
-                                      Hi, I’m Halen — a visual storyteller behind the lens <br />
+                                      Hi, I’m sam — a visual storyteller behind the lens <br />
                                        Turning real moments into timeless memories
                                     </h3>
                                     <div
@@ -171,7 +163,7 @@
                                        animation-delay: 0.1s;
                                        "
                                        >
-                                       Hi, This is Halen, a professional Photographer <br />
+                                       Hi, This is sam, a professional Photographer <br />
                                        I Captured Moments
                                     </h3>
                                     <div
@@ -208,7 +200,7 @@
                                        animation-delay: 0.1s;
                                        "
                                        >
-                                       Hi, This is Halen, a professional Photographer <br />
+                                       Hi, This is sam, a professional Photographer <br />
                                        I Captured Moments
                                     </h3>
                                     <div
@@ -245,7 +237,7 @@
                                        animation-delay: 0.1s;
                                        "
                                        >
-                                       Hi, This is Halen, a professional Photographer <br />
+                                       Hi, This is sam, a professional Photographer <br />
                                        I Captured Moments
                                     </h3>
                                     <div
@@ -282,7 +274,7 @@
                                        animation-delay: 0.1s;
                                        "
                                        >
-                                       Hi, This is Halen, a professional Photographer <br />
+                                       Hi, This is sam, a professional Photographer <br />
                                        I Captured Moments
                                     </h3>
                                     <div
@@ -369,7 +361,7 @@
                      <div class="thumb">
                         <img src="img/gallery/1.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -382,7 +374,7 @@
                      <div class="thumb">
                         <img src="img/gallery/2.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -395,7 +387,7 @@
                      <div class="thumb">
                         <img src="img/gallery/3.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -408,7 +400,7 @@
                      <div class="thumb">
                         <img src="img/gallery/4.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -421,7 +413,7 @@
                      <div class="thumb">
                         <img src="img/gallery/5.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -434,7 +426,7 @@
                      <div class="thumb">
                         <img src="img/gallery/6.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -447,7 +439,7 @@
                      <div class="thumb">
                         <img src="img/gallery/7.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -460,7 +452,7 @@
                      <div class="thumb">
                         <img src="img/gallery/8.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -473,7 +465,7 @@
                      <div class="thumb">
                         <img src="img/gallery/9.png" alt="">
                      </div>
-                     <a href="baby_gallery.html" class="hover ">
+                     <a href="" class="hover ">
                         <div class="hover_inner">
                            <h3>Baby album</h3>
                            <span>Photography / Baby</span>
@@ -711,7 +703,7 @@
                               +10 787 367 2567
                            </li>
                            <li>
-                              <a href="#">contact08@halen.com</a>
+                              <a href="#">contact08@sam.com</a>
                            </li>
                         </ul>
                         <div class="socail_links">
