@@ -58,11 +58,7 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="social_links">
-                                <ul>
-                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
-                                </ul>
+                               <a href="#" class="boxed-btn3">+91 123456789</a>
                             </div>
                         </div>
                         <div class="col-12">
