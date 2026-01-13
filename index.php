@@ -478,6 +478,15 @@
       </div>
       <!-- /gallery_area  -->
       <!-- testimonial_area  -->
+       <style>
+         .testimonial_active .owl-item {
+  opacity: 0;
+}
+.testimonial_active .owl-item.active {
+  opacity: 1;
+}
+
+       </style>
       <div class="testimonial_area">
          <div class="container">
             <div class="row justify-content-center">
