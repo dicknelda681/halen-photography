@@ -697,7 +697,7 @@
                         <h4>Address</h4>
                         <ul class="Address">
                            <li>
-                              200/D, Green lane, Kings street, New York
+                              201/D, Green lane, Kings street, New York
                            </li>
                            <li>
                               +10 787 367 2567
