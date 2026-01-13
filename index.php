@@ -34,7 +34,7 @@
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-2">
                             <div class="logo">
-                                <a href="index.html">
+                                <a href="">
                                     <img src="img/logo.png" alt="">
                                 </a>
                             </div>
@@ -109,8 +109,19 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
-                                    I Captured Moments</h3>
+                             <h3
+                                       class="wow fadeInDown"
+                                       data-wow-duration="1s"
+                                       data-wow-delay=".1s"
+                                       style="
+                                       visibility: visible;
+                                       animation-duration: 1s;
+                                       animation-delay: 0.1s;
+                                       "
+                                       >
+                                      Hi, I’m sam — a visual storyteller behind the lens <br />
+                                       Turning real moments into timeless memories
+                                    </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
                                 </div>
@@ -124,8 +135,19 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
-                                    I Captured Moments</h3>
+                               <h3
+                                       class="wow fadeInDown"
+                                       data-wow-duration="1s"
+                                       data-wow-delay=".1s"
+                                       style="
+                                       visibility: visible;
+                                       animation-duration: 1s;
+                                       animation-delay: 0.1s;
+                                       "
+                                       >
+                                      Hi, I’m sam — a visual storyteller behind the lens <br />
+                                       Turning real moments into timeless memories
+                                    </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
                                 </div>
@@ -139,8 +161,19 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
-                                    I Captured Moments</h3>
+                                <h3
+                                       class="wow fadeInDown"
+                                       data-wow-duration="1s"
+                                       data-wow-delay=".1s"
+                                       style="
+                                       visibility: visible;
+                                       animation-duration: 1s;
+                                       animation-delay: 0.1s;
+                                       "
+                                       >
+                                      Hi, I’m sam — a visual storyteller behind the lens <br />
+                                       Turning real moments into timeless memories
+                                    </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
                                 </div>
@@ -159,10 +192,9 @@
             <div class="row justify-content-center">
                 <div class="col-xl-9 col-md-9">
                     <div class="section_title text-center">
-                        <h3>World class photography skills</h3>
-                        <p>Whether you’re about to create a website for the first time, or you’re looking 
-                            for a theme that provides advanced capabilities, we have got them in
-                            Blacksilver theme.</p>
+                       <h3>World-class photography, crafted with passion</h3>
+                     <p>From your first photoshoot to your most important milestones, we deliver stunning visuals with creativity, precision, and care.
+                     </p>
                         <div class="singnature_thumb">
                             <img src="img/photography/signature.png" alt="">
                         </div>
@@ -184,8 +216,8 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="section_title">
-                        <h3>Wildlife photography</h3>
-                        <p>Whether you’re about to create a website for the first <br> time, or you’re looking for a theme that provides <br> advanced capabilities.</p>
+                         <h3>Wildlife photography</h3>
+                     <p>Capturing nature in its purest form — from rare moments in the wild to breathtaking landscapes, every frame tells a real story.</p>
                         <a href="#" class="black_btn">Explore Work</a>
                     </div>
                 </div>
@@ -200,10 +232,11 @@
             <div class="row justify-content-center">
                 <div class="col-xl-7 col-lg-7">
                     <div class="section_title text-center mb-50">
-                        <h3>My world class photography</h3>
-                        <p>Whether you’re about to create a website for the first time, or you’re looking 
-                            for a theme that provides advanced capabilities, we have got them in 
-                            Blacksilver theme.</p>
+                     <h3>Photography at a world-class standard</h3>
+                     <p>Whether you’re about to create a website for the first time, or you’re looking 
+                        for a theme that provides advanced capabilities, we have got them in 
+                        Blacksilver theme.
+                     </p>
                     </div>
                 </div>
             </div>
@@ -215,7 +248,7 @@
                         <div class="thumb">
                             <img src="img/gallery/1.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -228,7 +261,7 @@
                         <div class="thumb">
                             <img src="img/gallery/2.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -241,7 +274,7 @@
                         <div class="thumb">
                             <img src="img/gallery/3.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -254,7 +287,7 @@
                         <div class="thumb">
                             <img src="img/gallery/4.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -267,7 +300,7 @@
                         <div class="thumb">
                             <img src="img/gallery/5.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -280,7 +313,7 @@
                         <div class="thumb">
                             <img src="img/gallery/6.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -293,7 +326,7 @@
                         <div class="thumb">
                             <img src="img/gallery/7.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -306,7 +339,7 @@
                         <div class="thumb">
                             <img src="img/gallery/8.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -319,7 +352,7 @@
                         <div class="thumb">
                             <img src="img/gallery/9.png" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="" class="hover ">
                             <div class="hover_inner">
                                 <h3>Baby album</h3>
                                 <span>Photography / Baby</span>
@@ -340,11 +373,21 @@
                     <div class="testimonial_active owl-carousel">
                         <div class="single_testmonial text-center">
                             <h3>Our Customers Say</h3>
-                            <p>
-                                Whether you’re about to create a website for the first time, or you’re looking 
-                                for a theme that provides advanced capabilities, we have got them in 
-                                Blacksilver theme.
-                            </p>
+                          <p>
+                                  From first-time customers to long-term partners, people love how easy it is to work with us and how beautifully their moments are captured.
+                                 </p>
+                            <div class="author_name d-flex align-items-center justify-content-center">
+                                <div class="thumb">
+                                    <img src="img/testmonial/author.png" alt="">
+                                </div>
+                                <span>- Tony Shark</span>
+                            </div>
+                        </div>
+                        <div class="single_testmonial text-center">
+                            <h3>Our Customers Say</h3>
+                           <p>
+                                  Every project brings a new story, and our clients’ feedback inspires us to keep creating memories that truly matter.
+                                 </p>
                             <div class="author_name d-flex align-items-center justify-content-center">
                                 <div class="thumb">
                                     <img src="img/testmonial/author.png" alt="">
@@ -355,29 +398,13 @@
                         <div class="single_testmonial text-center">
                             <h3>Our Customers Say</h3>
                             <p>
-                                Whether you’re about to create a website for the first time, or you’re looking 
-                                for a theme that provides advanced capabilities, we have got them in 
-                                Blacksilver theme.
-                            </p>
+                                  Discover how our photography has helped people preserve their most meaningful moments with style and perfection.
+                                 </p>
                             <div class="author_name d-flex align-items-center justify-content-center">
                                 <div class="thumb">
                                     <img src="img/testmonial/author.png" alt="">
                                 </div>
-                                <span>- Robert Thomson</span>
-                            </div>
-                        </div>
-                        <div class="single_testmonial text-center">
-                            <h3>Our Customers Say</h3>
-                            <p>
-                                Whether you’re about to create a website for the first time, or you’re looking 
-                                for a theme that provides advanced capabilities, we have got them in 
-                                Blacksilver theme.
-                            </p>
-                            <div class="author_name d-flex align-items-center justify-content-center">
-                                <div class="thumb">
-                                    <img src="img/testmonial/author.png" alt="">
-                                </div>
-                                <span>- Robert Thomson</span>
+                                <span>- James Wager</span>
                             </div>
                         </div>
                     </div>
@@ -492,7 +519,7 @@
                             <h4>Address</h4>
                             <ul class="Address" >
                                 <li>
-                                        200/D, Green lane, Kings street, New York
+                                        201/D, Green lane, Kings street, New York
                                 </li>
                                 <li>
                                         +10 787 367 2567
@@ -628,11 +655,9 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-7 col-md-8">
-                        <p class="copy_right ">
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        </p>
+                          <p class="copy_right">
+                       2026 All rights reserved 
+                     </p>
                     </div>
                     <div class="col-xl-5 col-md-4">
                         <div class="socail_links">
