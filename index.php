@@ -134,8 +134,8 @@
                                        animation-delay: 0.1s;
                                        "
                                        >
-                                       Hi, This is Halen, a professional Photographer <br />
-                                       I Captured Moments
+                                      Hi, I’m Halen — a visual storyteller behind the lens <br />
+                                       Turning real moments into timeless memories
                                     </h3>
                                     <div
                                        class="video_service_btn wow fadeInDown"
@@ -315,10 +315,8 @@
             <div class="row justify-content-center">
                <div class="col-xl-9 col-md-9">
                   <div class="section_title text-center">
-                     <h3>World class photography skills</h3>
-                     <p>Whether you’re about to create a website for the first time, or you’re looking 
-                        for a theme that provides advanced capabilities, we have got them in
-                        Blacksilver theme.
+                     <h3>World-class photography, crafted with passion</h3>
+                     <p>From your first photoshoot to your most important milestones, we deliver stunning visuals with creativity, precision, and care.
                      </p>
                      <div class="singnature_thumb">
                         <img src="img/signature.png" alt="">
@@ -341,7 +339,7 @@
                <div class="col-lg-6">
                   <div class="section_title">
                      <h3>Wildlife photography</h3>
-                     <p>Whether you’re about to create a website for the first <br> time, or you’re looking for a theme that provides <br> advanced capabilities.</p>
+                     <p>Capturing nature in its purest form — from rare moments in the wild to breathtaking landscapes, every frame tells a real story.</p>
                      <a href="#" class="black_btn">Explore Work</a>
                   </div>
                </div>
@@ -355,7 +353,7 @@
             <div class="row justify-content-center">
                <div class="col-xl-7 col-lg-7">
                   <div class="section_title text-center mb-50">
-                     <h3>My world class photography</h3>
+                     <h3>Photography at a world-class standard</h3>
                      <p>Whether you’re about to create a website for the first time, or you’re looking 
                         for a theme that provides advanced capabilities, we have got them in 
                         Blacksilver theme.
